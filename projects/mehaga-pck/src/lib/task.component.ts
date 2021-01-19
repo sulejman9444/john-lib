@@ -5,7 +5,7 @@ import { Component, Input, Output, EventEmitter } from '@angular/core';
   templateUrl: './task.component.html',
   styleUrls: ['./task.component.scss']
 })
-export class TraktorComponent {
+export class TaskComponent {
   title = '';
   @Input() task: any;
 

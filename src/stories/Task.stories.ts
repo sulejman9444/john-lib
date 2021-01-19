@@ -1,6 +1,6 @@
 // src/app/components/task.stories.ts
 import { action } from '@storybook/addon-actions';
-import { TaskComponent } from 'src/app/components/task/task.component';
+import { TaskComponent } from 'projects/mehaga-pck/src/lib/task.component';
 
 export default {
   title: 'Task',
