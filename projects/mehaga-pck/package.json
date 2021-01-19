@@ -1,5 +1,5 @@
 {
-  "name": "@doe/mehaga-pck",
+  "name": "@sulejman9444/mehaga-pck",
   "version": "0.0.3",
   "scripts": {
     "build": "ng build"
@@ -15,5 +15,5 @@
     "type": "git",
     "url": "https://github.com/sulejman9444/john-lib.git"
   },
-  "gitHead": "8d770f4ecdec6278f079eb19a39bae159593961e"
+  "gitHead": "f9f57b4fae7528472467b10bf3f3aee6e204171e"
 }
