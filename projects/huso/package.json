@@ -1,6 +1,6 @@
 {
   "name": "@sulejman9444/mehaga-pck",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "scripts": {
     "build": "ng build"
   },
