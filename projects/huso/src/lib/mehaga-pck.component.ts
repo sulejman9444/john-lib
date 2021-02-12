@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-mehaga-pck',
   template: `
     <p>
-      mehaga-pck works!
+      mehaga-pck worksi!
     </p>
   `,
   styles: [
