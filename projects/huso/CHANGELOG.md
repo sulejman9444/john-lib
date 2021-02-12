@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/sulejman9444/john-lib/compare/@sulejman9444/mehaga-pck@0.1.1...@sulejman9444/mehaga-pck@0.1.2) (2021-02-12)
+
+
+### Bug Fixes
+
+* test ([7172fdf](https://github.com/sulejman9444/john-lib/commit/7172fdf9788872809fec63082cfd063cbc827395))
+
+
+
+
+
 ## [0.1.1](https://github.com/sulejman9444/john-lib/compare/@sulejman9444/mehaga-pck@0.1.0...@sulejman9444/mehaga-pck@0.1.1) (2021-01-19)
 
 
